@@ -42,6 +42,6 @@ gcc -z execstack -o test test.c
 
  buffer overflow 漏洞利用实践
 
-2.实验内容： 编写exploits攻击漏洞程序
+**实验内容**： 编写exploits攻击漏洞程序
 
-3.实验结果： 获取具有root权限的shell
+**实验结果**： 获取具有root权限的shell
